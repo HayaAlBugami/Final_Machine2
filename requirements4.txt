@@ -1,0 +1,9 @@
+pandas
+scikit-learn 
+numpy
+streamlit
+altair
+altair==4.0
+altair.vegalite.v4.api
+pickle
+
